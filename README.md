@@ -9,7 +9,11 @@
 ```json
 {
     "markdown.styles": [
-        "https://raw.githubusercontent.com/aui/vs-code-github-markdown-theme/master/index.css"
+        "https://gitcdn.xyz/repo/aui/vs-code-github-markdown-theme/master/index.css"
     ]
 }
 ```
+
+## 效果
+
+![截图](./preview.png)
